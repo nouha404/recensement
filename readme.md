@@ -10,4 +10,4 @@
 <img src="images/5MatosUtiliser.png" />	
 <br />
 
-</img src="images/repartitionParEdition.png" />
+<img src="images/repartitionParEdition.png" />
